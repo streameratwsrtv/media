@@ -2,7 +2,9 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2963005,CODECS="avc1.100.31,mp4a.40.2",RESOLUTION=1280x720
 https://esmhls1-i.akamaihd.net/hls/live/510580/ESM-hls-live-2_1_2000@510580/chunklist.m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=1287925,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=1080x720
 https://esmhls1-i.akamaihd.net/hls/live/510580/ESM-hls-live-2_1_1000@510580/chunklist.m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=719246,CODECS="avc1.66.21,mp4a.40.2",RESOLUTION=512x288
 https://esmhls1-i.akamaihd.net/hls/live/510580/ESM-hls-live-2_1_600@510580/chunklist.m3u8
